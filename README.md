@@ -9,7 +9,7 @@
 
 * [Некорректный вывод приложения при проверке валидного номера карты VISA #1](https://github.com/EliseevG787/JAVAQA-1.2/issues/1)
 * [Некорректный вывод приложения при проверке валидного номера карты VISA #2](https://github.com/EliseevG787/JAVAQA-1.2/issues/2)
-* [Дефект #3](https://github.com/EliseevG787/JAVAQA-1.2/issues/3)
+* [Некорректный вывод приложения при проверке валидного номера карты AMEX #3](https://github.com/EliseevG787/JAVAQA-1.2/issues/3)
 
 ### Описание процесса тестирования
 
