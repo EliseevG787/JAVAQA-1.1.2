@@ -17,7 +17,7 @@
 
 [Генератор кредитных карт](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
-В качестве тестовых данных использовались данные сервиса [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
+В качестве тестовых данных использовались данные сервисов [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html) и [creditcardgenerator.in](https://creditcardgenerator.in/card-generator/mir)
 
 Валидные номера кредитных карт
 VISA:
@@ -44,11 +44,11 @@ Diners Club - North America:
 * 5589197239160098
 * 5452025482247862
 
-Maestro:
-* 6304613161564950
-* 6761662108939631
-* 6762091059801674
-* 0604245498772806
+MIR:
+* 2201765937880801
+* 2202729432479102
+* 2200490245412075
+* 2202669075899402
 
 
 Тестирование производилось в следующем окружении:
