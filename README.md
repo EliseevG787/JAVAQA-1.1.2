@@ -9,13 +9,14 @@
 
 * [19-значные номера карты VISA не проходят валидацию #1](https://github.com/EliseevG787/JAVAQA-1.2/issues/1)
 * [15-значные номера карты AMEX не проходят валидацию #2](https://github.com/EliseevG787/JAVAQA-1.2/issues/2)
-* [Некорректный вывод приложения при проверке валидного номера карты AMEX #3](https://github.com/EliseevG787/JAVAQA-1.2/issues/3)
+* [16-значные номера карты MIR не проходят валидацию #3](https://github.com/EliseevG787/JAVAQA-1.2/issues/3)
 
 ### Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 
-[Генератор кредитных карт](https://www.freeformatter.com/credit-card-number-generator-validator.html)
+* сайт [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
+* сайт [creditcardgenerator.in](https://creditcardgenerator.in/card-generator/mir)
 
 В качестве тестовых данных использовались данные сервисов [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html) и [creditcardgenerator.in](https://creditcardgenerator.in/card-generator/mir)
 
