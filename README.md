@@ -15,7 +15,7 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-[Генератор кредитных карт](https://www.getcreditcardnumbers.com/)
+[Генератор кредитных карт](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 В качестве тестовых данных использовались данные сервиса [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
